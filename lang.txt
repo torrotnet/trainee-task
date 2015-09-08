@@ -1,0 +1,14 @@
+which server side language do you use (and why)
+I prefer to use Python as a server-side langiage. Python is a widely used general-purpose, high-level programming language.
+Python is very convenient to develop, saves time because of numerous frameworks and packages.
+Python has a big community, it is very important because, if you have something you do not know you can find the same question, which somebody has already asked and someother has already answered. It is very convenient and also saves much time.
+Of course Python is considered to be a slow language, but for products for 100 000 persons it is enought, that is why you can use Python to solve many tasks.
+
+what do you know about PHP
+PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. PHP code can be simply mixed with HTML code, or it can be used in combination with various templating engines and web frameworks.
+Current PHP version is 5.6.
+PHP stores whole numbers in a platform-dependent range, either a 64-bit or 32-bit signed integer. Unsigned integers are converted to signed values in certain situations; this behavior is different from other programming languages. Integer variables can be assigned using decimal (positive and negative), octal, hexadecimal, and binary notations.
+PHP includes various free and open-source libraries in its source distribution, or uses them in resulting PHP binary builds. PHP is fundamentally an Internet-aware system with built-in modules for accessing File Transfer Protocol (FTP) servers and many database servers, including PostgreSQL, MySQL, Microsoft SQL Server and SQLite (which is an embedded database), LDAP servers, and others.
+
+which frameworks did you use 
+I use Flask and Django frameworks. Django is more convenient, then Flask, but if need to develope some uncustom project it is much better to use Flask.
